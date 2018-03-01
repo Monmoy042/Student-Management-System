@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486967087 source:e:\c programming test\cse105\project\student database system\main.c
+	<stdio.h>
+	<stdlib.h>
+
